@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+swagger:
+  enable: true
+  cpackage: 'xxxxxx'
+  title: '默认title'
+  desc: '默认描述'
+httpconfig:
+  connectTimeOut: 1000
+  readTimeOut: 1000
